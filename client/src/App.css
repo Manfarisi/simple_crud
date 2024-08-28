@@ -1,0 +1,92 @@
+/* From Uiverse.io by Gautammsharma */ 
+.comic-button {
+    display: inline-block;
+    padding: 6px 12px; /* Mengurangi padding untuk ukuran button yang lebih kecil */
+    font-size: 18px; /* Mengurangi ukuran font */
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    color: #fff;
+    background-color: #ff5252;
+    border: 2px solid #000;
+    border-radius: 10px;
+    box-shadow: 5px 5px 0px #000;
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+  
+.comic-button:hover {
+    background-color: #fff;
+    color: #ff5252;
+    border: 2px solid #ff5252;
+    box-shadow: 5px 5px 0px #ff5252;
+}
+  
+.comic-button:active {
+    background-color: #fcf414;
+    box-shadow: none;
+    transform: translateY(4px);
+}
+
+/* From Uiverse.io by Gautammsharma */ 
+.comic-buttonU {
+    display: inline-block;
+    padding: 6px 12px; /* Mengurangi padding untuk ukuran button yang lebih kecil */
+    font-size: 18px; /* Mengurangi ukuran font */
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    color: #fff;
+    background-color: #079c2a;
+    border: 2px solid #000;
+    border-radius: 10px;
+    box-shadow: 5px 5px 0px #000;
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+  
+.comic-buttonU:hover {
+    background-color: #fff;
+    color: #079c2a; /* Ubah warna teks menjadi hijau */
+    border: 2px solid #079c2a; /* Ubah border menjadi hijau */
+    box-shadow: 5px 5px 0px #079c2a; /* Ubah bayangan menjadi hijau */
+}
+  
+.comic-buttonU:active {
+    background-color: #fcf414;
+    box-shadow: none;
+    transform: translateY(4px);
+}
+
+
+/* From Uiverse.io by Gautammsharma */ 
+.comic-buttonA {
+    display: inline-block;
+    padding: 6px 12px; /* Mengurangi padding untuk ukuran button yang lebih kecil */
+    font-size: 18px; /* Mengurangi ukuran font */
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    color: #fff;
+    background-color: #295F98;
+    border: 2px solid #000;
+    border-radius: 10px;
+    box-shadow: 5px 5px 0px #000;
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+  
+.comic-buttonA:hover {
+    background-color: #fff;
+    color: #295F98; 
+    border: 2px solid #295F98; 
+    box-shadow: 5px 5px 0px #295F98; 
+}
+  
+.comic-buttonA:active {
+    background-color: #fcf414;
+    box-shadow: none;
+    transform: translateY(4px);
+}
+
+
